@@ -1,1 +1,2 @@
 # SpaceInvadersPyGame
+> pip install pygame
